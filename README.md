@@ -1,6 +1,5 @@
 # snapface
 
-# Test to merge the 2 branches
 =======
 # Snapface
 
